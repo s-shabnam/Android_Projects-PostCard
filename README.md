@@ -4,4 +4,5 @@
 
 
 Screenshots
+![app](https://github.com/sushseqi/Android_Projects-PostCard/postcard.png)
 
